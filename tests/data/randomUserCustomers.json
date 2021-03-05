@@ -1,0 +1,682 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Norma",
+                "last": "Austin"
+            },
+            "location": {
+                "street": {
+                    "number": 1355,
+                    "name": "Shady Ln Dr"
+                },
+                "city": "Dubbo",
+                "state": "South Australia",
+                "country": "Australia",
+                "postcode": 6223,
+                "coordinates": {
+                    "latitude": "-49.9929",
+                    "longitude": "62.6179"
+                },
+                "timezone": {
+                    "offset": "-11:00",
+                    "description": "Midway Island, Samoa"
+                }
+            },
+            "email": "norma.austin@example.com",
+            "login": {
+                "uuid": "b0402c58-38e0-42a1-bd13-960bc34aef76",
+                "username": "bluemouse438",
+                "password": "annabell",
+                "salt": "H4bjPfD1",
+                "md5": "1871cc9ec81510f8f3d5898c6f2707ba",
+                "sha1": "0b0785841c1b8e0c8195ddc1820cea44735ab861",
+                "sha256": "82dc6feb66b4301617072ffb8fafe185183910464ea9a5e807009893d7d838a8"
+            },
+            "dob": {
+                "date": "1947-04-03T22:24:26.185Z",
+                "age": 74
+            },
+            "registered": {
+                "date": "2015-03-25T09:44:31.326Z",
+                "age": 6
+            },
+            "phone": "02-2699-4465",
+            "cell": "0471-724-468",
+            "id": {
+                "name": "TFN",
+                "value": "954514173"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/76.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/76.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/76.jpg"
+            },
+            "nat": "AU"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Georgia",
+                "last": "Hernandez"
+            },
+            "location": {
+                "street": {
+                    "number": 7913,
+                    "name": "Prospect Rd"
+                },
+                "city": "Bendigo",
+                "state": "South Australia",
+                "country": "Australia",
+                "postcode": 5634,
+                "coordinates": {
+                    "latitude": "22.1536",
+                    "longitude": "24.7659"
+                },
+                "timezone": {
+                    "offset": "-6:00",
+                    "description": "Central Time (US & Canada), Mexico City"
+                }
+            },
+            "email": "georgia.hernandez@example.com",
+            "login": {
+                "uuid": "c2b376bd-f979-4273-b494-d56c3ca298a0",
+                "username": "angryleopard165",
+                "password": "hammers",
+                "salt": "Ma3HGa8v",
+                "md5": "93c178986c37a98a087af0a3d6a5e552",
+                "sha1": "c670ca5998d6aedd72fd38ce0cd6cbba2616b581",
+                "sha256": "64c02d44381fc0d0b09f622044daf385b66c707820e198d1c89ec92784c84b1b"
+            },
+            "dob": {
+                "date": "1959-05-06T00:25:11.004Z",
+                "age": 62
+            },
+            "registered": {
+                "date": "2018-09-28T06:12:11.846Z",
+                "age": 3
+            },
+            "phone": "01-4048-9225",
+            "cell": "0473-680-069",
+            "id": {
+                "name": "TFN",
+                "value": "947197464"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/13.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/13.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/13.jpg"
+            },
+            "nat": "AU"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "William",
+                "last": "Gregory"
+            },
+            "location": {
+                "street": {
+                    "number": 3479,
+                    "name": "Wheeler Ridge Dr"
+                },
+                "city": "Traralgon",
+                "state": "Queensland",
+                "country": "Australia",
+                "postcode": 1199,
+                "coordinates": {
+                    "latitude": "68.9132",
+                    "longitude": "15.9738"
+                },
+                "timezone": {
+                    "offset": "+10:00",
+                    "description": "Eastern Australia, Guam, Vladivostok"
+                }
+            },
+            "email": "william.gregory@example.com",
+            "login": {
+                "uuid": "80f56081-4f22-4707-9e44-8c6ae00aef7b",
+                "username": "bigbutterfly954",
+                "password": "sunflowe",
+                "salt": "LPVT4YAz",
+                "md5": "03760ff4250f920c1a0d7e4896e3b841",
+                "sha1": "3b792369fca147a44898e5f1a1bb1b02a7d9b009",
+                "sha256": "40b4002d8f0b44e2ee1286a6a2b7e0b3c1bb2273761e303ebc6b3aa42bad463c"
+            },
+            "dob": {
+                "date": "1954-02-11T19:10:24.656Z",
+                "age": 67
+            },
+            "registered": {
+                "date": "2007-12-17T11:25:23.771Z",
+                "age": 14
+            },
+            "phone": "01-0158-0207",
+            "cell": "0489-570-646",
+            "id": {
+                "name": "TFN",
+                "value": "352820866"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/62.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/62.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
+            },
+            "nat": "AU"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Terry",
+                "last": "Lee"
+            },
+            "location": {
+                "street": {
+                    "number": 5908,
+                    "name": "Royal Ln"
+                },
+                "city": "Orange",
+                "state": "South Australia",
+                "country": "Australia",
+                "postcode": 4197,
+                "coordinates": {
+                    "latitude": "-59.7467",
+                    "longitude": "171.0296"
+                },
+                "timezone": {
+                    "offset": "-3:30",
+                    "description": "Newfoundland"
+                }
+            },
+            "email": "terry.lee@example.com",
+            "login": {
+                "uuid": "b6b68b4f-5f5f-4e69-9acb-ec66d11f2592",
+                "username": "ticklishlion830",
+                "password": "wwwwww",
+                "salt": "4ZxmQb18",
+                "md5": "882a20e9989bd0dd49d3107ebd016e1d",
+                "sha1": "3e67f71cb8ddf3be2d35e4b2fee1d5f61d91fe03",
+                "sha256": "b76a637f2e748c7e37f7ea5dbf28debb350896a85a9b486524c0b6357b55ac83"
+            },
+            "dob": {
+                "date": "1958-02-14T14:37:43.824Z",
+                "age": 63
+            },
+            "registered": {
+                "date": "2019-06-03T11:05:45.475Z",
+                "age": 2
+            },
+            "phone": "05-6858-0596",
+            "cell": "0468-443-485",
+            "id": {
+                "name": "TFN",
+                "value": "750178945"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/56.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
+            },
+            "nat": "AU"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Amanda",
+                "last": "Vargas"
+            },
+            "location": {
+                "street": {
+                    "number": 2575,
+                    "name": "Hillcrest Rd"
+                },
+                "city": "Bathurst",
+                "state": "New South Wales",
+                "country": "Australia",
+                "postcode": 4061,
+                "coordinates": {
+                    "latitude": "-83.8750",
+                    "longitude": "-127.2791"
+                },
+                "timezone": {
+                    "offset": "-8:00",
+                    "description": "Pacific Time (US & Canada)"
+                }
+            },
+            "email": "amanda.vargas@example.com",
+            "login": {
+                "uuid": "8d141cdf-8c1a-47a4-84d3-0dab105e849b",
+                "username": "browntiger357",
+                "password": "porsche1",
+                "salt": "hJbitoe1",
+                "md5": "ae8707f6134406cfceb63c1f3400ea9b",
+                "sha1": "1edc5eee9303630544d990f16c41ce4088f9fc4f",
+                "sha256": "42b5ab7cb2e9d8d8596ee8efde05155d1e518b840b636412eab8120ba1e4fc74"
+            },
+            "dob": {
+                "date": "1960-05-14T06:11:28.667Z",
+                "age": 61
+            },
+            "registered": {
+                "date": "2013-10-03T03:42:44.951Z",
+                "age": 8
+            },
+            "phone": "00-6390-8054",
+            "cell": "0490-695-727",
+            "id": {
+                "name": "TFN",
+                "value": "204795534"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/39.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/39.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/39.jpg"
+            },
+            "nat": "AU"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Lesa",
+                "last": "Mitchelle"
+            },
+            "location": {
+                "street": {
+                    "number": 3164,
+                    "name": "Mockingbird Ln"
+                },
+                "city": "Bowral",
+                "state": "Tasmania",
+                "country": "Australia",
+                "postcode": 1276,
+                "coordinates": {
+                    "latitude": "25.8857",
+                    "longitude": "27.0934"
+                },
+                "timezone": {
+                    "offset": "+5:00",
+                    "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+                }
+            },
+            "email": "lesa.mitchelle@example.com",
+            "login": {
+                "uuid": "0ed63a0d-ffd8-4c3f-98ad-8d08e9ad7657",
+                "username": "bigpanda971",
+                "password": "snowboard",
+                "salt": "g4cJ1WfZ",
+                "md5": "d54624734909eab0e6bb44bb244a182d",
+                "sha1": "6df33c005d11e4904ef98489509dc0628712662d",
+                "sha256": "2c884a176736aab598f068c0ea07ab74bdc677d016d7d822b57c4abeb1a486a4"
+            },
+            "dob": {
+                "date": "1951-08-24T06:27:22.267Z",
+                "age": 70
+            },
+            "registered": {
+                "date": "2018-08-28T22:00:32.663Z",
+                "age": 3
+            },
+            "phone": "02-5615-3982",
+            "cell": "0450-301-406",
+            "id": {
+                "name": "TFN",
+                "value": "894311863"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/41.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/41.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/41.jpg"
+            },
+            "nat": "AU"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Bill",
+                "last": "Bishop"
+            },
+            "location": {
+                "street": {
+                    "number": 8203,
+                    "name": "N Stelling Rd"
+                },
+                "city": "Traralgon",
+                "state": "Victoria",
+                "country": "Australia",
+                "postcode": 3739,
+                "coordinates": {
+                    "latitude": "61.3005",
+                    "longitude": "11.6836"
+                },
+                "timezone": {
+                    "offset": "-12:00",
+                    "description": "Eniwetok, Kwajalein"
+                }
+            },
+            "email": "bill.bishop@example.com",
+            "login": {
+                "uuid": "c802bdf7-963f-40e1-a451-291902531db4",
+                "username": "happybutterfly615",
+                "password": "diving",
+                "salt": "VuOgvsMJ",
+                "md5": "e5d976ecc9fd2eb6ee85c2ac987945ff",
+                "sha1": "11528e5ca7eeb5fb85b74cfbba2e417c56f6a0fb",
+                "sha256": "3c1b9c3e0fbf33751bfa1355c34320f69a75eff5fe3f602afa929fc97e5742c4"
+            },
+            "dob": {
+                "date": "1959-01-05T20:54:13.517Z",
+                "age": 62
+            },
+            "registered": {
+                "date": "2017-10-03T11:48:04.795Z",
+                "age": 4
+            },
+            "phone": "08-7525-8248",
+            "cell": "0471-895-509",
+            "id": {
+                "name": "TFN",
+                "value": "802797577"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/7.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/7.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
+            },
+            "nat": "AU"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Elaine",
+                "last": "Reid"
+            },
+            "location": {
+                "street": {
+                    "number": 3983,
+                    "name": "Valley View Ln"
+                },
+                "city": "Cairns",
+                "state": "South Australia",
+                "country": "Australia",
+                "postcode": 3919,
+                "coordinates": {
+                    "latitude": "69.4941",
+                    "longitude": "-77.0241"
+                },
+                "timezone": {
+                    "offset": "-7:00",
+                    "description": "Mountain Time (US & Canada)"
+                }
+            },
+            "email": "elaine.reid@example.com",
+            "login": {
+                "uuid": "4a6095e1-d086-4e1a-b8c4-b306ce89566d",
+                "username": "goldengoose530",
+                "password": "qazwsxed",
+                "salt": "wXN5UaIS",
+                "md5": "049563f927fc881c8f49807055ce259f",
+                "sha1": "911489640b8db75523f5382a1baa3ee0a43dedad",
+                "sha256": "ff09d458dc640b306a6d5b83c132a1dfbc9a71af0cd6194c6b8020f3466600f6"
+            },
+            "dob": {
+                "date": "1987-04-24T18:17:20.675Z",
+                "age": 34
+            },
+            "registered": {
+                "date": "2003-03-17T18:43:58.292Z",
+                "age": 18
+            },
+            "phone": "06-1245-0995",
+            "cell": "0496-370-595",
+            "id": {
+                "name": "TFN",
+                "value": "266448795"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/3.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/3.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/3.jpg"
+            },
+            "nat": "AU"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Jacqueline",
+                "last": "Perry"
+            },
+            "location": {
+                "street": {
+                    "number": 3060,
+                    "name": "Bollinger Rd"
+                },
+                "city": "Nowra",
+                "state": "Queensland",
+                "country": "Australia",
+                "postcode": 5224,
+                "coordinates": {
+                    "latitude": "26.6632",
+                    "longitude": "25.5975"
+                },
+                "timezone": {
+                    "offset": "-12:00",
+                    "description": "Eniwetok, Kwajalein"
+                }
+            },
+            "email": "jacqueline.perry@example.com",
+            "login": {
+                "uuid": "96b582a7-1e09-4dc1-9d1b-f2f648a285ed",
+                "username": "heavywolf129",
+                "password": "helen",
+                "salt": "avCaY4OG",
+                "md5": "1f5c79f660f666b490ede4eee25c383f",
+                "sha1": "7d8cb5b162d6f37fb6612228753054660577856b",
+                "sha256": "5534677f624b29358517e058900f054e4e2d5be90403d717277ca2b170d804fb"
+            },
+            "dob": {
+                "date": "1965-09-23T00:54:18.055Z",
+                "age": 56
+            },
+            "registered": {
+                "date": "2011-12-22T22:43:11.033Z",
+                "age": 10
+            },
+            "phone": "01-5898-1299",
+            "cell": "0428-727-419",
+            "id": {
+                "name": "TFN",
+                "value": "952971794"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/21.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/21.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/21.jpg"
+            },
+            "nat": "AU"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Isaiah",
+                "last": "Johnston"
+            },
+            "location": {
+                "street": {
+                    "number": 6011,
+                    "name": "W 6th St"
+                },
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "postcode": 8058,
+                "coordinates": {
+                    "latitude": "-37.9724",
+                    "longitude": "2.2781"
+                },
+                "timezone": {
+                    "offset": "-1:00",
+                    "description": "Azores, Cape Verde Islands"
+                }
+            },
+            "email": "isaiah.johnston@example.com",
+            "login": {
+                "uuid": "050271ad-e652-41d9-9183-110d8ec1c5a1",
+                "username": "organicladybug260",
+                "password": "racecar",
+                "salt": "BmiULhi9",
+                "md5": "e96ba3000b362980de102be6b0b5ca9d",
+                "sha1": "f31fbe69492c44dcf13c17251e9714e6089525b6",
+                "sha256": "8ff460e89c16dfcbfc79fe7778989b449fa5ddef3281eeb03a3a2c5c5676515b"
+            },
+            "dob": {
+                "date": "1953-03-28T08:16:44.851Z",
+                "age": 68
+            },
+            "registered": {
+                "date": "2016-08-31T02:42:28.423Z",
+                "age": 5
+            },
+            "phone": "07-0501-1854",
+            "cell": "0441-837-545",
+            "id": {
+                "name": "TFN",
+                "value": "861689916"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/55.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/55.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/55.jpg"
+            },
+            "nat": "AU"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Gertrude",
+                "last": "Graham"
+            },
+            "location": {
+                "street": {
+                    "number": 9071,
+                    "name": "Locust Rd"
+                },
+                "city": "Bathurst",
+                "state": "Australian Capital Territory",
+                "country": "Australia",
+                "postcode": 6834,
+                "coordinates": {
+                    "latitude": "-28.2082",
+                    "longitude": "-72.8529"
+                },
+                "timezone": {
+                    "offset": "-9:00",
+                    "description": "Alaska"
+                }
+            },
+            "email": "gertrude.graham@example.com",
+            "login": {
+                "uuid": "a946194e-1cb9-438d-87db-2de880fd14bf",
+                "username": "organicbutterfly289",
+                "password": "stinker",
+                "salt": "OMs7VGQb",
+                "md5": "dc93e3b847972f58a86ee53dc53b2d50",
+                "sha1": "48723089cc586022a1537b92cd8abd43535baff1",
+                "sha256": "aae07aeb44b79bb5f51c41a2c6b4913583f4743ab2d82532cf07f5cf9e556e4c"
+            },
+            "dob": {
+                "date": "1976-03-06T00:20:10.759Z",
+                "age": 45
+            },
+            "registered": {
+                "date": "2015-11-25T13:19:05.428Z",
+                "age": 6
+            },
+            "phone": "04-5382-7671",
+            "cell": "0477-064-578",
+            "id": {
+                "name": "TFN",
+                "value": "804698090"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/65.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/65.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/65.jpg"
+            },
+            "nat": "AU"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Norman",
+                "last": "Ortiz"
+            },
+            "location": {
+                "street": {
+                    "number": 422,
+                    "name": "Spring Hill Rd"
+                },
+                "city": "Shepparton",
+                "state": "Northern Territory",
+                "country": "Australia",
+                "postcode": 8490,
+                "coordinates": {
+                    "latitude": "49.7997",
+                    "longitude": "8.2358"
+                },
+                "timezone": {
+                    "offset": "+6:00",
+                    "description": "Almaty, Dhaka, Colombo"
+                }
+            },
+            "email": "norman.ortiz@example.com",
+            "login": {
+                "uuid": "bc5f84b2-36d4-4855-8aec-08bb557c0092",
+                "username": "crazycat801",
+                "password": "ursula",
+                "salt": "uRYLXMJs",
+                "md5": "da3f7eefec35094d973b1c1e931c0cce",
+                "sha1": "7fb8ba3beb5823ecd6462c0f1d259310152399e7",
+                "sha256": "cbddafe6285d3e305f84e98a9219f526559da16ae4ea97c39a0dfea97947d478"
+            },
+            "dob": {
+                "date": "1964-08-11T06:41:13.550Z",
+                "age": 57
+            },
+            "registered": {
+                "date": "2007-01-10T01:41:55.541Z",
+                "age": 14
+            },
+            "phone": "05-3355-7419",
+            "cell": "0497-748-954",
+            "id": {
+                "name": "TFN",
+                "value": "957351521"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/12.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/12.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/12.jpg"
+            },
+            "nat": "AU"
+        }
+    ],
+    "info": {
+        "seed": "bfcf93449dc885d4",
+        "results": 12,
+        "page": 1,
+        "version": "1.3"
+    }
+}
